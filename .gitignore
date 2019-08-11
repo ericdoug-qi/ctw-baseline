@@ -102,3 +102,7 @@ ENV/
 
 /data
 
+# pycharm
+.idea/
+*.DS_Store
+*.iml
